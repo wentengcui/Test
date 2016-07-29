@@ -4,6 +4,7 @@ public class Wenming {
 	public static int i = 6;
 	public static int j = 8;
 	public static void main(String[] args) {
-		System.out.println("i+j="+(i+j));
+		int m = i+j;
+		System.out.println("i+j="+m);
 	}
 }
