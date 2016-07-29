@@ -43,7 +43,6 @@ public class Test {
 	public String addStudent1( Student student, ModelMap model) {
 		System.out.println("addStuden1t");
 	System.out.println(student.getName());
-	System.out.println(student.getName());
 		return "success";
 	}
 }
